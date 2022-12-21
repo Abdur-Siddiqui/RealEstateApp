@@ -27,8 +27,4 @@ public class Booking {
 
     @Column(name ="listing_Id")
     private String listing_Id;
-
-
-
-
 }
